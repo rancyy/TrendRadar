@@ -10,7 +10,6 @@ Envision AESC
 AESC
 
 纳斯达克
-NASDAQ
 
 ai
 !gai
@@ -18,7 +17,12 @@ ai
 
 自动驾驶
 
-机器人
-
 日本
 美国
+中国
+
+特斯拉
+Tesla
+
+黄金
+价格
